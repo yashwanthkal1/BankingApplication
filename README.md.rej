@@ -1,0 +1,4 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -0,0 +1 @@
++In this project, I developed a high-quality client-server Banking Application using the features of Java. The application runs on the server and allows clients to remotely connect to the application. This application allows admin to login to the system to create a new user and view all user details and so on. The created user can login to the system to perform all banking services like opening savings and checking’s accounts, view account information, transfer money to other users, deposit money to an account and close the account.
+\ No newline at end of file
